@@ -1,1 +1,2 @@
-🌾 Crop Recommendation System 🌱 Assigned by AICTE, this ML project helps farmers choose the best crops by analyzing 🧪 soil, 🌦️ weather, and 🌍 environmental factors. Built with Python, scikit-learn, and data visualization tools, it aims to boost 🌱 agricultural productivity and sustainability.
+Crop Recommendation System
+this machine learning project is designed to assist farmers in selecting the most suitable crops by analyzing soil composition, weather patterns, and environmental conditions. Developed using Python, Scikit-learn, and data visualization tools, it aims to enhance agricultural productivity and promote sustainable farming practices.
